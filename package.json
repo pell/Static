@@ -1,0 +1,12 @@
+{
+  "scripts": {
+  },
+  "engines": {
+  "node": "16.20.0",
+  "npm": "^9.5.1"
+},
+  "dependencies": {
+        "dotenv": "^16.0.1"
+  }
+}
+
